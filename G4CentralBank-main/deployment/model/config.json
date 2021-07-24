@@ -1,0 +1,17 @@
+{
+  "Configuration": {
+    "DatabaseName": "default",
+    "DatabasePassword": "",
+    "DatabaseType": "HSQLDB",
+    "DatabaseHost": "",
+    "DatabaseUserName": "",
+    "DatabaseUseIntegratedSecurity": "False",
+    "ApplicationRootUrl": "http://localhost:8081/",
+    "ScheduledEventExecution": "Specified",
+    "MyScheduledEvents": "CentralBankModule.Clearing1230,CentralBankModule.Clearing1445,CentralBankModule.Clearing1030"
+  },
+  "Constants": {
+    "Atlas_UI_Resources.Atlas_UI_Resources_Version": " 2.7.1"
+  },
+  "AdminPassword": null
+}

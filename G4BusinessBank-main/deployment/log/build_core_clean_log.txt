@@ -1,0 +1,9 @@
+Buildfile: C:\Users\igors\source\repos\Mendix\G4BusinessBank-main\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\Users\igors\source\repos\Mendix\G4BusinessBank-main\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+

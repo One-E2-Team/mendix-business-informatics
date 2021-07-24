@@ -1,0 +1,9 @@
+Buildfile: C:\Users\igors\source\repos\Mendix\G4CentralBank-main\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\Users\igors\source\repos\Mendix\G4CentralBank-main\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
